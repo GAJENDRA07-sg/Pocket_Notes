@@ -37,7 +37,7 @@ const CreateGroupModal = ({ onClose, onSubmit, groups }) => {
     <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-[100] px-4">
       <div
         ref={modalRef}
-        className="bg-white p-8 md:p-10 rounded-lg w-full max-w-[500px] shadow-2xl"
+        className="bg-white p-8 md:p-10 rounded-lg w-full max-w-[505px] shadow-2xl"
       >
         <h2 className="text-2xl font-bold mb-8">Create New group</h2>
         <div className="flex flex-col md:flex-row md:items-center gap-4 md:gap-8 mb-6">
