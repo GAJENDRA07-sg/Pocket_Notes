@@ -27,7 +27,7 @@ const NotesArea = ({ group, onAddNote, onBack, isMobile }) => {
           <h1 className="text-5xl font-bold mb-4 tracking-wider text-black">
             Pocket Notes
           </h1>
-          <p className="text-[#292929] max-w-[570px] text-center text-[18px] font-medium leading-[32px] tracking-[0.02em]">
+          <p className="text-[#292929] max-w-[600px] text-center text-[18px] font-medium leading-[32px] tracking-[0.02em]">
             Send and receive messages without keeping your phone online. Use
             Pocket Notes on up to 4 linked devices and 1 phone simultaneously.
           </p>
